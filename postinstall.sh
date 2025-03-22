@@ -6,7 +6,7 @@
 
 
 #Install Realdash
-sudo dpkg -i *.deb
+sudo dpkg -i /home/dietpi/dash/*.deb
 sudo apt-get -f install -y
 sudo apt-get kdialog -y
 
